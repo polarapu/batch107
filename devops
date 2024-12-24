@@ -1,52 +1,52 @@
 Git-107
 =======
-git init
+git ing;kdgjdflkggit
+fg
+gidft config --global user.name "Polarapu Prasad"
+git gfgconfig --global user.email "devopstraining2015@gmail.com"
+bgf
+gitbtgbnsfgnfrhngfrn config --list
+bg
+gigbt config --global --unset user.name
+git gbgnhmukyioyjutrgewconfig --global --unset user.email
 
-git config --global user.name "Polarapu Prasad"
-git config --global user.email "devopstraining2015@gmail.com"
-
-git config --list
-
-git config --global --unset user.name
-git config --global --unset user.email
-
-git config --list
-
-==================
-touch file1
-ls
-git status
+git config --listgfhnghngfb
+hb
+==gb================
+toucgfhnh file1
+lshm
+git hfnstatus
 git add file1
-git status
-git commit -m "sample commit"
-git status
-git log
-git show
-git show cid
-
----------------------------
-touch file2 file3 file4 file5
-ls
-git add file2 file3 file4 file5
-or
-git add .
-or
-git add *
-or
-git add -A
-
-git commit -m "sample commit"
-git status
-git log
-git show
-
-=========================
-git clone https://github.com/polarapu/batch107.git
-ls
-cd batch107
-touch file1
-ls
-git status
+git stamfjiltus
+git commit -yujtrhgem "sample commit"
+git statusrthy
+git logjukfyj
+git showhtgfd
+git show cidgjh
+kfhjgnbc
+-------- m-------------------
+touch filengbfvc2 file3 file4 file5
+lsnm
+git g,add file2 file3 file4 file5
+ormnb
+git avdd .
+orv 
+git yfthreadd *
+orfrztsdy
+git add -ufiogl,fjhmgnA
+bfvf
+git ,commit -m "sample commit"
+git sk.g,jhmgnbftatus
+git logdsd
+git showghv 
+mnbgv
+=====dm====================
+git clogkifne https://github.com/polarapu/batch107.git
+lsjuyhtg
+cd batchzmx107
+touch file1cjnhgb
+lsh
+gitnh status
 git add file1
 git status
 git commit -m "sample commit"
