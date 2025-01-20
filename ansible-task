@@ -1,0 +1,14 @@
+---
+- hosts: all
+  become: yes
+  tasks:
+  - name: creating dir
+    file: name=/opt/d11 state=directory
+  - name: copying rpm files from ansible server to client
+    copy:
+         src: /opt/nginx-release-centos-6-0.el6.ngx.noarch.rpm
+         dest: /opt/d11
+  - name: Installing rpm
+    yum:
+         name: /opt/d11/nginx-release-centos-6-0.el6.ngx.noarch.rpm
+         state: present
